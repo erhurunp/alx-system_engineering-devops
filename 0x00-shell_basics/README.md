@@ -4,3 +4,4 @@ Task zero - Script prints the absolute path name of the current working director
 Task One - Script that prints the list of a current directory.
 Task Two - Script to bring the user to the home working directory.
 Task Three - Script to list current directory components in long format.
+Task Four - Script to display current directory contents including hidden files
