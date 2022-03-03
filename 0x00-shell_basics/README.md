@@ -10,3 +10,5 @@ Task Six - Script to creates my_first_directory in the tmp directory.
 Task Seven - Script to move betty to /tmp/my_first_directory
 Task Eight - Script to delete betty from /tmp/my_first_directory
 Task Nine - Script to delete /tmp/my_first_directory
+Task Ten - Script that chages the current working directory to the previous one
+Task Ten - Script that lists the files of multiple directories
