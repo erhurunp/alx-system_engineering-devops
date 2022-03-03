@@ -9,3 +9,4 @@ Task Five - Script to display current directory contents including hidden figure
 Task Six - Script to creates my_first_directory in the tmp directory.
 Task Seven - Script to move betty to /tmp/my_first_directory
 Task Eight - Script to delete betty from /tmp/my_first_directory
+Task Nine - Script to delete /tmp/my_first_directory
