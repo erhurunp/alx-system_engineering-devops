@@ -14,3 +14,5 @@ Task Eleven - Script to add execute permissions to directories
 Task Twelve - Script to create a new directory with specific permissions
 Task Thirteen - Script to change the group owner of a file
 Task Fourteen- Script to change owner and group owner of a file
+Task Fiften - Script to change owner and group of a symbolic link
+Task Sixteen - Script to change owner of a file assuming it's file was for another user
