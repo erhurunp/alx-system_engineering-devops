@@ -17,3 +17,4 @@ Task Thirteen -Script to create a symbolic link.
 Task Fourteen - Script to copy HTML files from the current working directory that don't exist or are newer versions than those in the parent working directory.
 Task Fifteen - Script to move files starting with capital letters.
 Task Sixteen - Script to delete some files that end with ~
+Task Seventen - Script to create nested directories
