@@ -13,3 +13,5 @@ Task Nine - Script to delete /tmp/my_first_directory.
 Task Ten - Script that chages the current working directory to the previous one.
 Task Ten - Script that lists the files of multiple directories.
 Task Twelve - Script that prints the file iamafile.
+Task Thirteen -Script to create a symbolic link.
+Task Fourteen - Script to copy HTML files from the current working directory that don't exist or are newer versions than those in the parent working directory.
