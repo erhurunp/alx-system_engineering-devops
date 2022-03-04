@@ -8,3 +8,4 @@ Task Five - Script that adds execute permission for file owner
 Task Six - Script that adds multiple permissions
 Task Seven - Script that gives all permissions to every user
 Task Eight - Script that gives all permissions to only other usesrs
+Task Nine - Script to set permissions as -rwxr-x-wx
