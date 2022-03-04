@@ -18,3 +18,4 @@ Task Fourteen - Script to copy HTML files from the current working directory tha
 Task Fifteen - Script to move files starting with capital letters.
 Task Sixteen - Script to delete some files that end with ~
 Task Seventen - Script to create nested directories
+Task Eighteen - Script to sort and have comma separated list
