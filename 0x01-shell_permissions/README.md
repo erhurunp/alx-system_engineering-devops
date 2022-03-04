@@ -6,3 +6,4 @@ Tast Three - Script that changes the ownership of a file
 Task Four - Script that creates an empty file
 Task Five - Script that adds execute permission for file owner
 Task Six - Script that adds multiple permissions
+Task Seven - Script that gives all permissions to every user
