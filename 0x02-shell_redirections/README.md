@@ -9,3 +9,4 @@
 #### Task Eight - Script to redirect output to a file
 #### Task Nine - Script to duplicate the last line of a file
 #### Task Ten - Script that deletes all files with .js extension in the current working directory and subfolders
+#### Task Eleven - Script that counts the number of directories and sub-directories in the current working directory
