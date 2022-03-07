@@ -3,3 +3,4 @@
 #### Task One - Script to print a smiley
 #### Task Two - Script to display the contents of a file
 #### Task Three - Script to display the contents of two files
+#### Task Five - Script to print the first ten lines of a file
