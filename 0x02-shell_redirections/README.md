@@ -5,3 +5,4 @@
 #### Task Three - Script to display the contents of two files
 #### Task Five - Script to print the first ten lines of a file
 #### Task Seven - Script that creates  a file with many special characters in its name
+#### Task Eight - Script to redirect output to a file
