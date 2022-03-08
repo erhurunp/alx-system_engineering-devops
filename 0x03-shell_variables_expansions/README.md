@@ -11,3 +11,4 @@
  #### Task Nine - Script that prints the result of POWER divided by DIVIDE, followed by a new line
 #### Task Ten - Script that displays the result of an environmental variable raised to the power of another
 #### Task Eleven - Script that converts binary numbers to deanery numbers
+#### Task Twelve - Script that prints all possible combinations of two leters, except 'oo'
