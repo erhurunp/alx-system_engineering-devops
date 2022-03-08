@@ -20,3 +20,4 @@
 #### Task 19 - Script that replaces characters in the input
 #### Task Twenty - Script that removes a letter from the input
 Task Twenty one - Script that reverses input
+#### Task Twenty-two - Script that displays all directories and their users, sorted by the users
