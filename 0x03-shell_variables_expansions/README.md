@@ -3,3 +3,4 @@
 #### Task One - Script that prints a greeting with the current user's name
 #### Task Two - Script that adds /action to the PATH, making it the last directory the shell looks into when looking for a program
 #### Task Three - Script that counts the number of directories in the PATH
+#### Task Four - Script that lists the environment variables
