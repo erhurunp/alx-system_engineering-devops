@@ -9,3 +9,4 @@
 #### TaskSeven - Script that creates a new golbal variable
 #### Task Eight - Script that adds a number to stored environment variable
  #### Task Nine - Script that prints the result of POWER divided by DIVIDE, followed by a new line
+#### Task Ten - Script that displays the result of an environmental variable raised to the power of another
