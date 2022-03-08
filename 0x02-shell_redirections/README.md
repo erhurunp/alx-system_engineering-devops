@@ -11,3 +11,4 @@
 #### Task Ten - Script that deletes all files with .js extension in the current working directory and subfolders
 #### Task Eleven - Script that counts the number of directories and sub-directories in the current working directory
 #### Task Twelve - Script to display the ten newest files
+#### Task Thirteen - Script to print words that only appear once
