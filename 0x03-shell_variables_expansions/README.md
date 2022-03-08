@@ -8,3 +8,4 @@
 #### Task Six - Script that creates a new local variable
 #### TaskSeven - Script that creates a new golbal variable
 #### Task Eight - Script that adds a number to stored environment variable
+ #### Task Nine - Script that prints the result of POWER divided by DIVIDE, followed by a new line
