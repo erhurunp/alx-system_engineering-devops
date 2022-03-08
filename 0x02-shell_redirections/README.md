@@ -17,3 +17,4 @@
 #### Task Sixteen - Script to display lines containing root and the next three lines after them in a file
 #### Task Seventeen - Script that displays all the lines that do not contain bin in a file
 #### Task Eighteen - Script that displays all the files in a directory starting with a letter
+#### Task 19 - Script that replaces characters in the input
