@@ -13,3 +13,4 @@
 #### Task Twelve - Script to display the ten newest files
 #### Task Thirteen - Script to print words that only appear once
 #### Task Fourteen - Script that displays line containing root in a file
+#### Task Fifteen - Script that displays the number of  lines containing bin in a file
