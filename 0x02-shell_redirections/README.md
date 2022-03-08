@@ -22,3 +22,4 @@
 Task Twenty one - Script that reverses input
 #### Task Twenty-two - Script that displays all directories and their users, sorted by the users
 #### Task Twenty-three - Script that finds all empty files and directories in the current directory and all sub-directories
+#### Task Twenty-four - Script that lists all the files with a .gif extension in the current directory and all its sub-directories
