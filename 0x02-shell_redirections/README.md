@@ -14,3 +14,4 @@
 #### Task Thirteen - Script to print words that only appear once
 #### Task Fourteen - Script that displays line containing root in a file
 #### Task Fifteen - Script that displays the number of  lines containing bin in a file
+#### Task Sixteen - Script to display lines containing root and the next three lines after them in a file
