@@ -7,3 +7,4 @@
 #### Task Five - Script that lists out all variables (local and global) and functions
 #### Task Six - Script that creates a new local variable
 #### TaskSeven - Script that creates a new golbal variable
+#### Task Eight - Script that adds a number to stored environment variable
