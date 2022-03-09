@@ -16,3 +16,4 @@
 #### Task Fourteen - Script that conerts a deanery number to a hexadecimal
 #### Task Fifteen - Script that encodes and decodes
 #### Task Sixteen - Script that prints every other line from the input, starting with the first line
+#### Task Seventeen - Script that adds two numbers stored in environment variables
